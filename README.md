@@ -1,2 +1,2 @@
 # Programmazione per la fisica
-Project for the exam of Programmazione per la fisica for Physics bachelor degree
+Project for the exam of Programmazione per la fisica for Physics bachelor degree at UniBo
